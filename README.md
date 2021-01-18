@@ -8,19 +8,19 @@ The purpose of this analysis is the look at bike sharing rental data and see if 
 ##Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 
-![](Checkout times by user.png)
+![](bikesharing/Checkout times by user.png)
 The majority of users rent bikes between 4-6 hours.
 
-![](Checkout times by gender.png)
+![](bikesharing/Checkout times by gender.png)
 The majority of bike renters are male.
 
-![](Trips by weekday by hour.png)
+![](bikesharing/Trips by weekday by hour.png)
 Trips are longer on weekday evenings.
 
-![](Weekday trips by hour by gender.png)
+![](bikesharing/Weekday trips by hour by gender.png)
 The majority of weekday bike renters are male. 
 
-![](Trips by gender.png)
+![](bikesharing/Trips by gender.png)
 The majority of subscribers are male. 
 
 
